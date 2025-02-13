@@ -14,7 +14,7 @@ This project analyzes the **Seaborn Diamonds Dataset**, which contains informati
 
 ### 1 Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/diamond-data-analysis.git
+git clone https://github.com/gooseyO3/diamond-data-analysis.git
 cd diamond-data-analysis
 ```
 
